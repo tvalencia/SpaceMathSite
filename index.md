@@ -19,7 +19,7 @@ custom_css:
 - assets/slick/slick-theme.css
 ---
 
-{% include banner_one.html title="How can we help you?" subtitle="Search here to get answers to your questions" %}
+{% include banner_one.html title="SpaceMath v1.0" subtitle="Search here to get answers to your questions" %}
 
 {% include recommended_topic.html title="Recommended Topics" subtitle="Loaded with awesome features like Documentation,Knowledgebase,<br> Forum & more!" %}
 
