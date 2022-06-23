@@ -1,6 +1,8 @@
-- title: Elements
+- title: Getting Started
   img: img/new/smile.png
   child:
+    - subtitle: Installation
+      url: /docs/doc-installation-tab    
     - subtitle: Tabs Widget
       url: /docs/doc-element-tab
     - subtitle: Notice / Message Widget

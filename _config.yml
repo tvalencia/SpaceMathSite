@@ -30,13 +30,6 @@ footer:
 # Social icons displayed in footer
 social:
     facebook:       https://www.facebook.com/
-    dribbble:
-    instagram:      https://www.instagram.com/
-    linkedin:       https://www.linkedin.com/
-    pinterest:      
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
-    youtube:
 
 collections:
   docs:

@@ -1,0 +1,169 @@
+I"9 <section class="doc_banner_area banner_creative1">
+    <ul class="list-unstyled banner_shap_img">
+        <li><img alt="" src="img/new/banner_shap1.png" /></li>
+        <li><img alt="" src="img/new/banner_shap4.png" /></li>
+        <li><img alt="" src="img/new/banner_shap3.png" /></li>
+        <li><img alt="" src="img/new/banner_shap2.png" /></li>
+        <li><img alt="" data-parallax="{&quot;x&quot;: -180, &quot;y&quot;: 80, &quot;rotateY&quot;:2000}" src="img/new/plus1.png" /></li>
+        <li><img alt="" data-parallax="{&quot;x&quot;: -50, &quot;y&quot;: -160, &quot;rotateZ&quot;:200}" src="img/new/plus2.png" /></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <div class="container">
+        <div class="doc_banner_content">
+            <h2 class="wow fadeInUp">SpaceMath: A Mathematica package for Beyond the Standard Model parameter space searches.</h2>
+        </div>
+    </div>
+</section>
+
+<section class="recommended_topic_area">
+    <div class="container">
+        <div class="recommended_topic_inner">
+            <img alt="" class="doc_shap_one" src="img/new/shap.png" />
+            <div class="doc_round one" data-parallax="{&quot;x&quot;: -80, &quot;y&quot;: -100, &quot;rotateY&quot;:0}"></div>
+            <div class="doc_round two" data-parallax="{&quot;x&quot;: -10, &quot;y&quot;: 70, &quot;rotateY&quot;:0}"></div>
+            <div class="doc_title text-center">
+                <h2 class="wow fadeInUp" data-wow-delay="0.2s">First steps...</h2>
+                <p class="wow fadeInUp" data-wow-delay="0.4s"></p>
+            </div>
+            <div class="row">
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/smile.png" alt="" />
+                            <a href="#">
+                                <h3>Getting Started</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/docs/doc-installation-tab">Installation</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-element-tab">Tabs Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-element-notice">Notice / Message Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-element-accordion">Accordions Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-ref-cheatsheet">Cheatsheet Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-element-hotspots">Image Hotspots Widget</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/doc.png" alt="" />
+                            <a href="#">
+                                <h3>Content</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/docs/doc-content-video">Video Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-content-image">Image Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-element-table">Table Widget</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-content-tooltip">Tooltip &amp; Direction</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/typography">Typography</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/bag.png" alt="" />
+                            <a href="#">
+                                <h3>Layout</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/docs/doc-layout-banner-gradient">Aesthetic Banner Design</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/onepage">Sticky Header with Navbar</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-layout-full-width">Full-width Layout</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-layout-left-sidebar">Full-width No Right Sidebar</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-layout-banner-empty">Without Banner</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/house.png" alt="" />
+                            <a href="#">
+                                <h3>References</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/docs/doc-ref-shortcuts">Keyboard Shortcuts</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-ref-footnotes">Footnotes</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-ref-tour">Interface Tour</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-ref-can-use">Can I Use</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/docs/doc-content-tooltip">Tooltips &amp; Direction</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+:ET

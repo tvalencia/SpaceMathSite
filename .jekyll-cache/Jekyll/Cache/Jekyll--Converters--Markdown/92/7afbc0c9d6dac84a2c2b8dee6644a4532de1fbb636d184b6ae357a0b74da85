@@ -1,0 +1,30 @@
+I"
+<body>
+<div class="shortcode_info documentation_info rvfs-section">
+    <article class="shortcode_text">
+        <div class="shortcode_title">
+            
+                <a class="btn" href="#">element</a>
+            
+            <h1>Installation</h1>
+            <p>The stable version of <b>SpaceMath v1.0</b> package that contains all the features tested can be downloaded and installed as following:
+            <h4 class="c_head load-order-2">Automatic Installation</h4>
+             Run the following instructions in a Notebook of Mathematica
+            </p>
+            <pre>
+                <code class="language-Wolfram" data-lang="Wolfram Code">
+                        Import["https://raw.githubusercontent.com/spacemathapp/spacemath/stable/SpaceMath/Install.m"]
+                        InstallSpaceMath[]
+                </code>
+            </pre>                   
+            <p>We take the installation method implemented in FeynCalc \cite{Shtabovenko:2020gxv}.
+            <h4 class="c_head load-order-2">Manual Installation</h4>
+            <ol>
+  			<li> Download SpaceMath v1.0 from <a href="https://github.com/spacemathapp/spacemath/archive/refs/heads/stable.zip">https://github.com/spacemathapp/spacemath/archive/refs/heads/stable.zip</a> </li>
+  			<li>Unzip the zip file and copy the SpaceMath directory from <code>$SpaceMath-stable/SpaceMath/</code> to the Applications directory inside <code>$UserBaseDirectory</code>. </li>
+  			<li>Enjoy <b>SpaceMath v1.0</b>.</li>
+			</ol> 		
+
+ 
+</p></div></article></div></body>
+:ET
